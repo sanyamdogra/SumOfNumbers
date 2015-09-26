@@ -1,0 +1,2 @@
+# SumOfNumbers
+Sums the things
