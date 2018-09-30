@@ -1,2 +1,2 @@
 # SumOfNumbers
-Sums the things
+Sums the numbers
