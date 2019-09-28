@@ -1,6 +1,6 @@
 #include<iostream.h>
 #include<conio.h>
-void main(0
+void main()
 {
   int a=10,b=5,c;
   c=a+b;
